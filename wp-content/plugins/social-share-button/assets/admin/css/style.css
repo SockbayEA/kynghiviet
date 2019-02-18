@@ -1,0 +1,32 @@
+/*
+Admin css
+*/
+
+
+
+.wp-share-button-settings .sorting .sort {
+  background: #ededed;
+  padding: 2px 6px;
+  cursor: move;
+}
+
+
+
+#wp_share_button_sites tr .no-remove {
+  background: rgb(206, 206, 206) none repeat scroll 0 0;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  padding: 2px 7px;
+}
+
+.wp-share-button-settings .remove {
+  background: #fc4747;
+  padding: 3px 8px;
+  color: #fff;
+  cursor: pointer;
+}
+
+
+
+
+

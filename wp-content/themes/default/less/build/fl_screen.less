@@ -1,0 +1,118 @@
+@import "../mixins.less";
+
+@media screen and (max-width: 1200px){
+
+}
+
+@media screen and (max-width: 992px){
+
+    .aboutus_box .about_content{
+        padding-left: 20px;
+    }
+
+}
+
+@media screen and (max-width: 768px){
+    .container{
+        width: 425px;
+    }
+    #header{
+        .logo{
+            text-align: center;
+            img{display: inline-block;}
+        }
+    }
+    .nav_items{
+        li{
+            display: block; width: 100%;
+        }
+    }
+    .aboutus_box{
+        .avatar{
+            .inner{margin: auto;}
+        }
+        .about_content{
+            padding-left: 5px;
+            .name{text-align: center;}
+        }
+    }
+    .proce_posts{
+        .post{
+            &:after{
+                top: 100%; right: 50%;
+            }
+        }
+    }
+    #footer{
+        .ftcol{
+            margin-bottom: 40px;
+        }
+        .sub-title{
+            text-align: left;
+        }
+    }
+    .banks{
+        li{
+            text-align: left;
+        }
+    }
+    .banner{
+        text-align: center;
+        a, img{display: inline-block;}
+    }
+}
+
+@media screen and (max-width: 480px){
+    .container{
+        width: 360px;
+    }
+    .advices_box{
+        li{
+            width: 100%;
+            &:first-child{margin-left: 0;}
+            margin-bottom: 15px;
+        }
+    }
+}
+
+@media screen and(max-width: 400px){
+    .container{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 480px){
+
+}
+
+@media screen and (min-width: 768px){
+    .reason_box{
+        .post_row{
+            .post{
+                width: 20%;
+                min-height: 267px;
+            }
+        }
+    }
+    .review_box{
+        .review_col{
+           padding-right: 25px;
+        }
+    }
+}
+
+@media screen and (min-width: 992px){
+    .sidebar_col{
+        float: left;
+    }
+    .content_col{
+        float: right;
+        padding-left: 20px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .container{
+        width: 1000px;
+    }
+}

@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Share Button\n"
+"POT-Creation-Date: 2018-02-04 13:42+0600\n"
+"PO-Revision-Date: 2018-02-04 13:42+0600\n"
+"Last-Translator: Nur Hasan <public.nurhasan@gmail.com>\n"
+"Language-Team: PickPlugins <support@pickplugins.com>\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: templates\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPath-3: templates\n"
+"X-Poedit-SearchPath-4: themes\n"
+
+#: includes/class-functions.php:19
+msgid "Email"
+msgstr "ইমেইল"
+
+#: includes/class-functions.php:20
+msgid "Facebook"
+msgstr "ফেসবুক"
+
+#: includes/class-functions.php:21
+msgid "Twitter"
+msgstr "টুইটার"
+
+#: includes/class-functions.php:22
+msgid "Google plus"
+msgstr "গুগল প্লাস"
+
+#: includes/class-functions.php:23
+msgid "Reddit"
+msgstr "রেডিট"
+
+#: includes/class-functions.php:24
+msgid "Linkedin"
+msgstr "লিঙ্কেডিন"
+
+#: includes/class-functions.php:25
+msgid "Stumbleupon"
+msgstr "স্ট্যাম্বলাপন"
+
+#: includes/class-functions.php:40
+msgid "Theme 1"
+msgstr "থীম ১"
+
+#: includes/class-functions.php:41
+msgid "Theme 2"
+msgstr "থীম ২"
+
+#: includes/class-functions.php:42
+msgid "Theme 3"
+msgstr "থীম ৩"
+
+#: includes/class-functions.php:43
+msgid "Theme 4"
+msgstr "থীম ৪"
+
+#: includes/class-functions.php:44
+msgid "Theme 5"
+msgstr "থীম ৫"
+
+#: includes/class-functions.php:45
+msgid "Theme 6"
+msgstr "থীম ৬"
+
+#: includes/class-functions.php:46
+msgid "Theme 7"
+msgstr "থীম ৭"
+
+#: includes/class-functions.php:47
+msgid "Theme 8"
+msgstr "থীম ৮"
+
+#: includes/class-functions.php:48
+msgid "Theme 9"
+msgstr "থীম ৯"
+
+#: includes/class-functions.php:49
+msgid "Theme 10"
+msgstr "থীম ১০"
+
+#: includes/class-functions.php:50
+msgid "Theme 11"
+msgstr "থীম ১১"
+
+#: includes/class-functions.php:51
+msgid "Theme 12"
+msgstr "থীম ১২"
+
+#: includes/class-functions.php:52
+msgid "Theme 13"
+msgstr "থীম ১৩"
+
+#: includes/class-functions.php:53
+msgid "Theme 14"
+msgstr "থীম ১৪"
+
+#: includes/class-functions.php:54
+msgid "Theme 15"
+msgstr "থীম ১৫"
+
+#: includes/class-functions.php:55
+msgid "Theme 16"
+msgstr "থীম ১৬"
+
+#: includes/class-functions.php:56
+msgid "Theme 17"
+msgstr "থীম১৭"
+
+#: includes/class-functions.php:57
+msgid "Theme 18"
+msgstr "থীম ১৮"
+
+#: includes/class-functions.php:58
+msgid "Theme 19"
+msgstr "থীম ১৯"
+
+#: includes/class-functions.php:59
+msgid "Theme 20"
+msgstr "থীম ২০"
+
+#: includes/class-functions.php:60
+msgid "Theme 21"
+msgstr "থীম ২১"
+
+#: includes/class-functions.php:61
+msgid "Theme 22"
+msgstr "থীম ২২"
+
+#: includes/class-functions.php:62
+msgid "Theme 23"
+msgstr "থীম ২৩"
+
+#: includes/class-functions.php:65
+msgid "Theme 26"
+msgstr "থীম ২৬"
+
+#: includes/class-functions.php:66
+msgid "Theme 27"
+msgstr "থীম ২৭"
+
+#: includes/class-functions.php:67
+msgid "Theme 28"
+msgstr "থীম ২৮"
+
+#: includes/class-functions.php:68
+msgid "Theme 29"
+msgstr "থীম ২৯"
+
+#: includes/class-functions.php:69
+msgid "Theme 30"
+msgstr "থীম ৩০"
+
+#: includes/class-functions.php:70
+msgid "Theme 31"
+msgstr "থীম ৩১"
+
+#: includes/class-functions.php:71
+msgid "Theme 32"
+msgstr "থীম ৩২"
+
+#: includes/class-functions.php:72
+msgid "Theme 33"
+msgstr "থীম ৩৩"
+
+#: includes/class-functions.php:73
+msgid "Theme 34"
+msgstr "থীম ৩৪"
+
+#: includes/class-functions.php:74
+msgid "Theme 35"
+msgstr "থীম ৩৫"
+
+#: includes/class-functions.php:75
+msgid "Theme 36"
+msgstr "থীম ৩৬"
+
+#: includes/class-functions.php:77
+msgid "Theme 38"
+msgstr "থীম ৩৮"
+
+#: includes/class-settings.php:25 social-share-button.php:29
+msgid "Social Share Button"
+msgstr "সোশাল শেয়ার বাটন"
+
+#: includes/class-settings.php:29 includes/menu/migrate.php:24
+msgid "Migrate"
+msgstr "মাইগ্রেট"
+
+#: includes/functions.php:258 includes/functions.php:265
+#: includes/functions.php:277 includes/functions.php:295
+#: includes/menu/settings.php:378 includes/menu/settings.php:386
+#: includes/menu/settings.php:398 includes/menu/settings.php:421
+msgid "None"
+msgstr "কিছু না"
+
+#: includes/functions.php:259 includes/menu/settings.php:379
+msgid "Content"
+msgstr "কনটেন্ট"
+
+#: includes/functions.php:266 includes/menu/settings.php:386
+msgid "Before"
+msgstr "আগে"
+
+#: includes/functions.php:267 includes/menu/settings.php:387
+msgid "After"
+msgstr "পরে"
+
+#: includes/functions.php:296 includes/menu/settings.php:422
+msgid "Single"
+msgstr "সিঙ্গেল পেইজ"
+
+#: includes/functions.php:297 includes/menu/settings.php:423
+msgid "Archive"
+msgstr "আর্কাইভ পেইজ"
+
+#: includes/functions.php:298 includes/menu/settings.php:424
+msgid "Home"
+msgstr "হোম পেইজ"
+
+#: includes/menu/settings.php:98
+msgid "Changes Saved."
+msgstr "পরিবর্তন গুলো সংরক্ষন হয়েছে"
+
+#: includes/menu/settings.php:114
+msgid "Settings"
+msgstr "সেটিং"
+
+#: includes/menu/settings.php:126
+msgid "Options"
+msgstr "অপশন"
+
+#: includes/menu/settings.php:127
+msgid "Style"
+msgstr "স্টাইল"
+
+#: includes/menu/settings.php:128
+msgid "Display"
+msgstr "দেখান"
+
+#: includes/menu/settings.php:129 includes/menu/settings.php:455
+msgid "Shortcode"
+msgstr "শর্টকোড"
+
+#: includes/menu/settings.php:130
+msgid "Help & Support"
+msgstr "সাহায্য ও যোগাযোগ"
+
+#: includes/menu/settings.php:137
+msgid "Total max button display"
+msgstr "কতটি বাটন দেখাতে চান"
+
+#: includes/menu/settings.php:144
+msgid "Display more buttons"
+msgstr "অতিরক্ত বাটন দেখান"
+
+#: includes/menu/settings.php:147 includes/menu/settings.php:157
+msgid "Yes"
+msgstr "হ্যা"
+
+#: includes/menu/settings.php:148 includes/menu/settings.php:158
+msgid "No"
+msgstr "না"
+
+#: includes/menu/settings.php:154
+#, fuzzy
+#| msgid "Display on"
+msgid "Display total count"
+msgstr "যেখানে দেখাবেন"
+
+#: includes/menu/settings.php:165
+msgid "Count format"
+msgstr "গননা ফরম্যাট"
+
+#: includes/menu/settings.php:166
+msgid ""
+"Full format will display whole number(4000) and short format will display as 4k "
+"(i.e 4000)."
+msgstr ""
+
+#: includes/menu/settings.php:168
+msgid "Full"
+msgstr "পুর্ন"
+
+#: includes/menu/settings.php:169
+msgid "Short"
+msgstr "সংক্ষেপ"
+
+#: includes/menu/settings.php:177
+msgid "Sharing sites"
+msgstr "শেয়ার করার সাইট গুলি"
+
+#: includes/menu/settings.php:178
+msgid ""
+"you can pass values for url and title dynamically using following string on "
+"share url, <ul><li>TITLE = Post Title </li><li>URL = Post url</li> </ul>"
+msgstr ""
+
+#: includes/menu/settings.php:184
+msgid "Sort"
+msgstr ""
+
+#: includes/menu/settings.php:184
+msgid "Site name"
+msgstr "সাইট নাম"
+
+#: includes/menu/settings.php:184
+msgid "ID"
+msgstr "আইডি"
+
+#: includes/menu/settings.php:184
+msgid "Share URL"
+msgstr "শেয়ার ইউওয়ারএল"
+
+#: includes/menu/settings.php:184
+msgid "FA Icon"
+msgstr ""
+
+#: includes/menu/settings.php:184
+#, fuzzy
+#| msgid "Visiblity"
+msgid "Visibility"
+msgstr "ভিসিবিলিটি"
+
+#: includes/menu/settings.php:184 includes/menu/settings.php:345
+msgid "Remove"
+msgstr "মুছে ফেলুন"
+
+#: includes/menu/settings.php:277 includes/menu/settings.php:446
+msgid "Add more"
+msgstr "যোগ করুন"
+
+#: includes/menu/settings.php:278
+msgid "Reset"
+msgstr "রিসেট"
+
+#: includes/menu/settings.php:284
+msgid "Themes"
+msgstr "থিম"
+
+#: includes/menu/settings.php:332
+msgid "Display on these automatically"
+msgstr "সংক্রিয় ভাবে এইগুলোতে দেখান"
+
+#: includes/menu/settings.php:341
+msgid "Display on"
+msgstr "যেখানে দেখাবেন"
+
+#: includes/menu/settings.php:342
+msgid "Position"
+msgstr "পজিশন"
+
+#: includes/menu/settings.php:343
+msgid "Postypes"
+msgstr "পোস্ট টাইপ"
+
+#: includes/menu/settings.php:344
+msgid "Page type"
+msgstr "পেইজ টাইপ"
+
+#: includes/menu/settings.php:456
+msgid "Please use following shortcode inside loop on your theme files"
+msgstr ""
+
+#: includes/menu/settings.php:466
+msgid "Plugin info ?"
+msgstr "প্লাগিং তথ্য?"
+
+#: includes/menu/settings.php:471
+#, php-format
+msgid ""
+"You are using %s version %s of %s, To get more feature you could try our "
+"premium version."
+msgstr ""
+"আপনি ব্যবহার করছেন %s ভার্সন  %s এর %s, আরো ফিচার পেতে প্রিমিয়াম ভার্সন দেখতে পারেন।"
+
+#: includes/menu/settings.php:481
+#, php-format
+msgid "Thanks for using <strong> premium version %s of %s"
+msgstr "প্রমিয়াম ভার্সন %s এর %s ব্যবহার করার জন্যে ধন্যবাদ"
+
+#: includes/menu/settings.php:496
+msgid "Need Help ?"
+msgstr "সাহায্য দরকার ?"
+
+#: includes/menu/settings.php:498
+#, php-format
+msgid "please read documentation here <a href=\"%s\">%s</a>"
+msgstr "অনুগ্রহ করে ডকুমেন্টেশোন পুড়ুন <a href=\"%s\">%s</a>"
+
+#: includes/menu/settings.php:506
+msgid "Submit reviews"
+msgstr ""
+
+#: includes/menu/settings.php:509
+msgid ""
+"We are working hard to build some awesome plugins for you and spend thousand "
+"hour for plugins. we wish your three(3) minute by submitting five star reviews "
+"at wordpress.org. if you have any issue please submit at forum."
+msgstr ""
+"প্লাগিন তৈরীর পিছনে হাজার ঘন্টা ব্যায় করে থাকি, আপনাদের কাছ থেকে ৩ মিনিট প্রত্যাশা "
+"করি আপনাদের পাচ তারা রিভিউ এবং মন্তব্যের জন্যে। দয়া করে wordpress.org এর পাচ তারা "
+"দিন, কোন সমস্যা থাকলে যোগাযোগ করুন"
+
+#: includes/menu/settings.php:547
+msgid "Save Changes"
+msgstr "পরিবর্তন সংরক্ষন করুন"
+
+#~ msgid ""
+#~ "Feel free to contact with any issue for this plugin, Ask any question via "
+#~ "forum %s "
+#~ msgstr "যেকোন সাহায্যের জন্যে নির্দ্বিধায় যোগাযোগ করুন, প্রশ্ন করুন আমাদের ফোরামে %s "
+
+#~ msgid "Video Tutorial"
+#~ msgstr "ভিডিও টিউটোরিয়াল"
+
+#~ msgid "Please watch this video tutorial."
+#~ msgstr "দয়া করে ভিডিও টিউটোরিয়াল দেখুন"

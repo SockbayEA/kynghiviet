@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 12 October, 2018 2:54 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.42
+WORDPRESS:	4.9.8
+PHP INFO:	5.6.37 | SAPI: cgi-fcgi
+SERVER:		Apache/2 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: Unabled to set php memory_limit 
+MEMORY STACK: 12.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:15 | filtered:0 | create:15 
+FILTERED: [] 
+SQL CREATED: 20181012_kynghiviet_fa6df6b8393b2fdf9709181012025420_database.sql 
+SQL FILE SIZE: 1015.65KB (1040026) 
+SQL FILE TIME: 2018-10-12 02:54:42 
+SQL RUNTIME: 1.23 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/kynghiviet/domains/kynghiviet.quangcaosangtao.vn/public_html 
+ARCHIVE FILE: 20181012_kynghiviet_fa6df6b8393b2fdf9709181012025420_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	74.98MB 
+STATS:	Dirs 524 | Files 3,655 
+SQL ADDED: 20181012_kynghiviet_fa6df6b8393b2fdf9709181012025420_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4179
+    [filename] => /home/kynghiviet/domains/kynghiviet.quangcaosangtao.vn/public_html/wp-snapshots/tmp/20181012_kynghiviet_fa6df6b8393b2fdf9709181012025420_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 36.24MB 
+ARCHIVE RUNTIME: 111.52 sec. 
+MEMORY STACK: 14.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/home/kynghiviet/domains/kynghiviet.quangcaosangtao.vn/public_html/wp-snapshots/tmp/20181012_kynghiviet_fa6df6b8393b2fdf9709181012025420_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1015.65KB 
+Installer File: 472.52KB 
+Archive File: 36.24MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 157.39 sec.
+PEAK PHP MEMORY USED: 16.25MB
+DONE PROCESSING => 20181012_kynghiviet 12 October, 2018 2:57 am
+ 

@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Share Button\n"
+"POT-Creation-Date: 2018-02-04 12:06+0600\n"
+"PO-Revision-Date: 2018-02-04 12:06+0600\n"
+"Last-Translator: Nur Hasan <public.nurhasan@gmail.com>\n"
+"Language-Team: PickPlugins <support@pickplugins.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: templates\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPath-3: themes\n"
+
+#: includes/class-settings.php:25 social-share-button.php:29
+msgid "Social Share Button"
+msgstr ""
+
+#: includes/class-settings.php:29 includes/menu/migrate.php:24
+msgid "Migrate"
+msgstr ""
+
+#: includes/functions.php:258 includes/functions.php:265
+#: includes/functions.php:277 includes/functions.php:295
+#: includes/menu/settings.php:378 includes/menu/settings.php:386
+#: includes/menu/settings.php:398 includes/menu/settings.php:421
+msgid "None"
+msgstr ""
+
+#: includes/functions.php:259 includes/menu/settings.php:379
+msgid "Content"
+msgstr ""
+
+#: includes/functions.php:266 includes/menu/settings.php:386
+msgid "Before"
+msgstr ""
+
+#: includes/functions.php:267 includes/menu/settings.php:387
+msgid "After"
+msgstr ""
+
+#: includes/functions.php:296 includes/menu/settings.php:422
+msgid "Single"
+msgstr ""
+
+#: includes/functions.php:297 includes/menu/settings.php:423
+msgid "Archive"
+msgstr ""
+
+#: includes/functions.php:298 includes/menu/settings.php:424
+msgid "Home"
+msgstr ""
+
+#: includes/menu/settings.php:98
+msgid "Changes Saved."
+msgstr ""
+
+#: includes/menu/settings.php:114
+msgid "Settings"
+msgstr ""
+
+#: includes/menu/settings.php:126
+msgid "Options"
+msgstr ""
+
+#: includes/menu/settings.php:127
+msgid "Style"
+msgstr ""
+
+#: includes/menu/settings.php:128
+msgid "Display"
+msgstr ""
+
+#: includes/menu/settings.php:129 includes/menu/settings.php:455
+msgid "Shortcode"
+msgstr ""
+
+#: includes/menu/settings.php:130
+msgid "Help & Support"
+msgstr ""
+
+#: includes/menu/settings.php:137
+msgid "Total max button display"
+msgstr ""
+
+#: includes/menu/settings.php:144
+msgid "Display more buttons"
+msgstr ""
+
+#: includes/menu/settings.php:154
+msgid "Display total count"
+msgstr ""
+
+#: includes/menu/settings.php:165
+msgid "Count format"
+msgstr ""
+
+#: includes/menu/settings.php:166
+msgid ""
+"Full format will display whole number(4000) and short format will display as "
+"4k (i.e 4000)."
+msgstr ""
+
+#: includes/menu/settings.php:177
+msgid "Sharing sites"
+msgstr ""
+
+#: includes/menu/settings.php:178
+msgid ""
+"you can pass values for url and title dynamically using following string on "
+"share url, <ul><li>TITLE = Post Title </li><li>URL = Post url</li> </ul>"
+msgstr ""
+
+#: includes/menu/settings.php:184
+msgid "Sort"
+msgstr ""
+
+#: includes/menu/settings.php:184
+msgid "Site name"
+msgstr ""
+
+#: includes/menu/settings.php:184
+msgid "ID"
+msgstr ""
+
+#: includes/menu/settings.php:184
+msgid "Share URL"
+msgstr ""
+
+#: includes/menu/settings.php:184
+msgid "FA Icon"
+msgstr ""
+
+#: includes/menu/settings.php:184
+msgid "Visiblity"
+msgstr ""
+
+#: includes/menu/settings.php:184 includes/menu/settings.php:345
+msgid "Remove"
+msgstr ""
+
+#: includes/menu/settings.php:277 includes/menu/settings.php:446
+msgid "Add more"
+msgstr ""
+
+#: includes/menu/settings.php:278
+msgid "Reset"
+msgstr ""
+
+#: includes/menu/settings.php:284
+msgid "Themes"
+msgstr ""
+
+#: includes/menu/settings.php:332
+msgid "Display on these automatically"
+msgstr ""
+
+#: includes/menu/settings.php:341
+msgid "Display on"
+msgstr ""
+
+#: includes/menu/settings.php:342
+msgid "Position"
+msgstr ""
+
+#: includes/menu/settings.php:343
+msgid "Postypes"
+msgstr ""
+
+#: includes/menu/settings.php:344
+msgid "Page type"
+msgstr ""
+
+#: includes/menu/settings.php:456
+msgid "Please use following shortcode inside loop on your theme files"
+msgstr ""
+
+#: includes/menu/settings.php:466
+msgid "Plugin info ?"
+msgstr ""
+
+#: includes/menu/settings.php:496
+msgid "Need Help ?"
+msgstr ""
+
+#: includes/menu/settings.php:497
+#, php-format
+msgid ""
+"Feel free to contact with any issue for this plugin, Ask any question via "
+"forum %s "
+msgstr ""
+
+#: includes/menu/settings.php:509
+msgid "Submit reviews"
+msgstr ""
+
+#: includes/menu/settings.php:512
+msgid ""
+"We are working hard to build some awesome plugins for you and spend thousand "
+"hour for plugins. we wish your three(3) minute by submitting five star "
+"reviews at wordpress.org. if you have any issue please submit at forum."
+msgstr ""
+
+#: includes/menu/settings.php:550
+msgid "Save Changes"
+msgstr ""
